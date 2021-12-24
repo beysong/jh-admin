@@ -1,0 +1,1 @@
+var init2={apiHost:"https://open-test.wehome.net.cn",imgHost:"https://wehome-image.oss-cn-shanghai.aliyuncs.com"};
